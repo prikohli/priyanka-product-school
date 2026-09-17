@@ -57,4 +57,4 @@ PM reviews any P0 with confidence < 70% before posting. Daily 8:55am: PM has a 5
 - [ ] At least 3 stop conditions, including escalation.
 - [ ] Each memory type named (in or out).
 - [ ] Every tool lists scope (read-only vs write) and a schema.
-- [ ] Read/write boundaries match the AI PRD (M3).- **Fails safe when:** _____
+- [ ] Read/write boundaries match the AI PRD (M3).
